@@ -1,0 +1,23 @@
+body{   
+    background-image: url(third.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: fit-content;
+    
+   }
+   p{
+     font-family: cursive;
+font-size: 22px;
+margin-right: 350px;
+margin-left: 35px;
+   }
+h1{
+   margin-left: 200px;
+margin-top: 85px;
+font-size: 75px;
+color: black;
+font-family: cursive;
+font-weight: lighter;
+font-style: italic;
+}
